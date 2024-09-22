@@ -4,6 +4,7 @@
   "description": "Message broker consumer for be-open-music-hapi repository",
   "main": "index.js",
   "scripts": {
+    "consume": "node ./src/consumer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
