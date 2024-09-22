@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "amqplib": "^0.10.4",
+    "auto-bind": "^4.0.0",
     "dotenv": "^16.4.5",
     "nodemailer": "^6.9.15",
     "pg": "^8.13.0"
