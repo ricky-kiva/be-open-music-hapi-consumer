@@ -1,0 +1,15 @@
+{
+  "name": "be-open-music-hapi-consumer",
+  "version": "1.0.0",
+  "description": "Message broker consumer for be-open-music-hapi repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RabbitMQ",
+    "Hapi"
+  ],
+  "author": "Rickyslash",
+  "license": "ISC"
+}
