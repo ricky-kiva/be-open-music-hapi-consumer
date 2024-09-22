@@ -13,9 +13,6 @@ class PlaylistsService {
       values: [id]
     };
 
-    // eslint-disable-next-line no-console
-    console.log(id);
-
     const result = await this._pool.query(q);
 
     return result.rows[0];
